@@ -8,13 +8,23 @@ In this project we perform following operations:
 2)Data Cleaning
 
 i) Filling missing values
+
 ii) Changing Datatype of columns
+
 iii) Replacing errors while data collection with right values
+
 3)Univariate Analysis
+
 4)Bivariate Analysis
+
 5)Linear Regression 
+
 6)GradientBoostingRegressor 
+
 7)DecisionTreeRegressor 
-8)XGBRegressor 
+
+8)XGBRegressor
+
 9)RandomForestRegressor 
+
 10)Model Evaluation with RMSLE
