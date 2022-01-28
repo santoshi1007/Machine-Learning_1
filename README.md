@@ -4,7 +4,9 @@ a)Real estate transactions are quite opaque sometimes and it may be difficult fo
 In this project we perform following operations:
 
 1)Data Exploration
+
 2)Data Cleaning
+
 i) Filling missing values
 ii) Changing Datatype of columns
 iii) Replacing errors while data collection with right values
