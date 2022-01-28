@@ -9,9 +9,9 @@ ii) Changing Datatype of columns
 iii) Replacing errors while data collection with right values
 3)Univariate Analysis
 4)Bivariate Analysis
-5)In LR We are getting score is about 85%.
-6)In GradientBoostingRegressor we have score is about 92%.
-7)DecisionTreeRegressor we have score of about 85%
-8)In XGBRegressor we have got score of about 91%.
-9)In RandomForestRegressor we have score of about 92.51%.
+5)Linear Regression 
+6)GradientBoostingRegressor 
+7)DecisionTreeRegressor 
+8)XGBRegressor 
+9)RandomForestRegressor 
 10)Model Evaluation with RMSLE
